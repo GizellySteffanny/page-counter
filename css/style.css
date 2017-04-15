@@ -169,11 +169,11 @@ body{font-family: 'Signika', sans-serif;}
 	color: #000;
 	border-radius: 5px;
 	text-align: center;
-	font-size: 2em;
+	font-size: 1.5em;
 }
 
 .button input{
-	font-size: 1.5em;
+	font-size: 1.2em;
 	background-color: #e65100;
 	color: #000;
 	border-radius: 5px;
